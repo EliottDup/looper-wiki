@@ -1,2 +1,1 @@
 The protagonist is a human mind uploaded to a robot.
-not much yet
