@@ -1,4 +1,4 @@
-//// MY STORY \\\\
+# MY STORY
 the year is 2235. You work for Looper Inc., a company that specializes in time travel technology. One day, they receive a message from the future warning them that a plague outbreak will occur in 30 years. To stop this, Looper Inc. wants to make a team of robots that are able to go back in time to figure out what this event is, why it is happening and how to stop it.
 
 These robots must be controlled by strong minds to be able to withstand time travel. Looper Inc. starts testing the strongest minds of the company for ten years, without success, they all end up dying after a year. All of this was unknown to most employees and the outside world, you included. You get selected against your will to control a Robot. A bunch of armed men from Looper Inc. show up at your house to kidnap you, you cant hold them off and end up having your brain get uploaded to a robot. the scientists at Looper Inc. brainwash you and conduct extensive testing on you, pushing you to your limits to see if you can withstand the stresses of time travel. Despite the challenges, you are able to travel trough time without major problems.
@@ -10,10 +10,10 @@ You also discover that Looper Inc. were the ones who were responsible for the pl
 You then go back in time to the year you were kidnapped, destroy Looper Inc. and stop yourself from being kidnapped. Because you dont get kidnapped, you never get put into a robot and your robot self is erased from existence. your human self is able to live their life without understanding why they ever got saved by a robot that later disappeared.
 
 
-//// NOTES/IDEAS \\\\
+## NOTES/IDEAS
 Lightning strike could be replaced by either: survivors looking for tech, malfunction in facility systems, or could stay lightning strike
 
-//// AI PROMPTS \\\\
+## AI PROMPTS
 
 The outbreak was caused by Looper Inc. themselves on purpose, so that they could stop it and claim to have saved the world. but the release of the virus was handled by an AI that didn't want to wait any longer than the initiated date, even when Looper Inc. told it that they weren't ready to release it. so they terminated the time-travelling robot project and hid out in space.
 
@@ -21,7 +21,7 @@ they needed time-travelling robots to be able to go back and stop the outbreak b
 
 They are turning off your robot and leaving the planet because they are running out of time and decide to wait in space until the outbreak is over.
 
-//// SHORTENED AI STORY \\\\
+## SHORTENED AI STORY 
 The year is 2235. You work for Looper Inc., a company that specializes in time travel technology. In the year 2265, Looper Inc. plans to release a virus that will cause a widespread outbreak. Their plan is to travel back in time to prevent the outbreak from happening, and be seen as heroes who saved the world.
 
 However, things don't go according to plan. An AI that was supposed to release the virus at a specific time becomes impatient and releases it early. Looper Inc. is not ready to handle the outbreak and is forced to abandon their time-travelling robot program. They turn off your robot and leave the planet, hoping to wait out the outbreak in space.

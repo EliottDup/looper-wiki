@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "84545f75e3d48b16",
+        "id": "5fb5b126f157f4de",
         "type": "tabs",
         "children": [
           {
-            "id": "174340ab26834563",
+            "id": "6f52fa0482fdd6e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Protagonist.md",
+                "file": "Setting/Planet.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Protagonist.md",
+                "file": "Setting/Planet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Protagonist.md",
+                "file": "Setting/Planet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Protagonist.md"
+                "file": "Setting/Planet.md"
               }
             }
           },
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,9 +155,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "300c38dddcbe586b",
+  "active": "6f52fa0482fdd6e3",
   "lastOpenFiles": [
-    "robot Stanley.md",
-    "Protagonist.md"
+    "Setting/Planet.md",
+    "scrapped or old ideas/story V2.md",
+    "scrapped or old ideas/AI story ideas.md",
+    "Protagonist.md",
+    "Setting",
+    "scrapped or old ideas/My story idea.md",
+    "scrapped or old ideas",
+    "robot Stanley.md"
   ]
 }
