@@ -128,17 +128,9 @@
                 "file": "Setting/Planet.md"
               }
             }
-          },
-          {
-            "id": "300c38dddcbe586b",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -155,10 +147,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "300c38dddcbe586b",
+  "active": "11619984678baf19",
   "lastOpenFiles": [
-    "New Text Document.txt",
     "Setting/Planet.md",
+    "New Text Document.txt",
     "scrapped or old ideas/story V2.md",
     "scrapped or old ideas/AI story ideas.md",
     "Protagonist.md",
