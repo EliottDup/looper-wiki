@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Setting/Planet.md",
+                "file": "Protagonist.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Setting/Planet.md",
+                "file": "Protagonist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Setting/Planet.md",
+                "file": "Protagonist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Setting/Planet.md"
+                "file": "Protagonist.md"
               }
             }
           }
@@ -147,7 +147,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11619984678baf19",
+  "active": "6f52fa0482fdd6e3",
   "lastOpenFiles": [
     "Setting/Planet.md",
     "New Text Document.txt",
