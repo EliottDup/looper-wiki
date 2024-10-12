@@ -1,0 +1,1 @@
+Core Sites is the name given to locations where [[Time Cores]] can be found, usually these are crash sites from the [[Arrival Event]], with one notable exception, the Aleutian Site, located near the deeper regions of the Aleutian trench. 

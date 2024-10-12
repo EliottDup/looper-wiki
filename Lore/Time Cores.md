@@ -20,6 +20,7 @@ Cores are stabilized by trapping them in our 3d slice using a [[#Temporal Stabil
 For yet-to-be uncovered reasons, some Cores are more powerful than others, requiring more energy to constrain but less to be guided in the required direction.
 
 Core Potency, like all energy in the universe, does not seem to disappear, this reinforces the first theory, the one of the "Super Core", that like energy, Core potency is spread throughout the universe overtime.
+Cores of higher Potency are always heavier than their less Potent counterparts. However the difference in mass is nearly negligible, even over immense Potency differences. For example, the most Potent Core found can work for thousands of years uninterrupted, and the least Potent Core could only sustain "warping" for at most close to a millisecond, with their mass differing by only 0,05%.
 
 ## Core Creation
 While it is unknown how Cores are formed, understanding their life cycle can help us understand their birth.
