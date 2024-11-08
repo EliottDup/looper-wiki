@@ -32,7 +32,7 @@ Automated Testing is reserved for testing of fully automated robots and machines
 Manual Testing is quite like Automated Testing, but slightly less clean, because it is almost constantly in use by scientists and technicians. Tests are directed either in large rooms or in a specific section with many smaller rooms. Each room is made to be resistant to almost everything or keep anything inside, due to the possibly dangerous experimental tests.
 
 ### Outside Testing Chambers
-Outside of the testing chambers, the halls kind of look like the inside of a spaceship, where each hall/wall is actually used and serves a function. Either storage, life support or ventilation (Maybe something else as well).s
+Outside of the testing chambers, the halls kind of look like the inside of a spaceship, where each hall/wall is actually used and serves a function. Either storage, life support or ventilation (Maybe something else as well).
 
 ## Living Quarters
 

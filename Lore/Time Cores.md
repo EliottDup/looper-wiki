@@ -22,12 +22,17 @@ For yet-to-be uncovered reasons, some Cores are more powerful than others, requi
 Core Potency, like all energy in the universe, does not seem to disappear, this reinforces the first theory, the one of the "Super Core", that like energy, Core potency is spread throughout the universe overtime.
 Cores of higher Potency are always heavier than their less Potent counterparts. However the difference in mass is nearly negligible, even over immense Potency differences. For example, the most Potent Core found can work for thousands of years uninterrupted, and the least Potent Core could only sustain "warping" for at most close to a millisecond, with their mass differing by only 0,05%.
 
-## Core Creation
+## Life Cycle
 While it is unknown how Cores are formed, understanding their life cycle can help us understand their birth.
-It is theorized that Cores can "Separate", splitting into multiple Cores with lower Potency. While this has never been recorded, it is strongly hinted at by the fact that the nearer Cores are found to each other, the more similar their movements are. If this "Separation" is a real phenomenon, it must mean one of two things: there either was once a gigantic Core, from which all Cores "Descend", or there is a yet to be proven "Core Cycle", which would allow weaker Cores to somehow form stronger Cores together.
+It is theorized that Cores can "Separate", splitting into multiple Cores with lower Potency, preserving their velocity and direction. While this has never been recorded, it is strongly hinted at by the fact that the nearer Cores are found to each other, the more similar their movements are. If this "Separation" is a real phenomenon, it must mean one of two things: there either was once a gigantic Core, from which all Cores "Descend", or there is a yet to be proven "Core Cycle", which would allow weaker Cores to somehow form stronger Cores together.
 ### Hypotheses
-There are currently two working hypotheses on the life cycle of Time Cores 
+There are currently two working hypotheses on the life cycle of Time Cores. These have not been confirmed nor denied. 
+#### Free Change
+The writer of this hypothesis believes that Cores can both split and merge. This allows for the possibility of increasing a Core's potency by merging it with another.
 
+#### Splitting
+This theory is similar to the previous one, except that it does not allow for merging of cores.
+#expand
 
 # Core Containment
 The only known way to Stabilize a core is by the use of a Temporal Stabilizer. These allow for complete control of a Core's power. But there is an alternative: Core Containers.
