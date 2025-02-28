@@ -21,5 +21,7 @@
 \> Visual Functions Report: Visual module functionality minimal
 \>
 \> Initiating: nav_test 
+\> Navigation Module COMPROMISED
 \> WARNING: Surroundings unknown, navigation limited
+\> Na
 \> Boot Sequence Report: Boot successful, functionality limited
