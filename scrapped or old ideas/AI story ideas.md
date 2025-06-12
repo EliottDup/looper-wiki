@@ -1,3 +1,4 @@
+Some Goofy ai generated extensions for badly written story. pay no mind to this
 Can you help me finish the story for my game?
 what i have currently is:
 "You work for Looper Inc., they recieve a message from the future saying that {something bad} is going to happen. so they decide to try to make robots that can go back in time to escape this fate. and against your will, your brain gets put into one of these robots and they do extensive testing on you. In the end, you manage to go back in time to the time that they kidnapped you and save your younger self. due to time paradoxes, you get erased from reality and your younger self never gets to know what actually happened."
