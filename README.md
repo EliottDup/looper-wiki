@@ -4,5 +4,8 @@ Looper Inc. started as an idea for a game, and after trying to make the game **t
 
 Also, check out [[INFO]], there's a bit more backstory into what this is in there.
 
+Originally this was all supposed to be for a single game, but this has grown out to being a worldbuilding project
+
 # TLDR
-Silly world building project based on a school project
+Silly world building project based on a school project, that is growing out of proportion way to fast
+
