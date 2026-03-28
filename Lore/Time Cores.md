@@ -24,7 +24,7 @@ Unstable Cores built up an impenetrable spherical shield around them. This shiel
 ### Creation
 When the Core (or its shielding) impacts an atom, it has a chance to "hold" the atom, sticking the atom to itself, if an atom on a shield impacts another atom, there is a chance for nuclear fusion to occur, merging both of the atoms together into a heavier one. These heavier atoms however, would break down extremely fast, to see why this does not happen and why the shielding ends up spherical, see [[#Sustenance]].
 ### Sustenance
-Due to its jittering at near *c* velocity, the unstable atoms' half-lives are extended to near infinity. As the heavy atoms get further from the Core (the shielding thicker), the relativistic effects weaken, until at some distance, the rate of decay of the outer layer is as fast as the rate at which the shield builds up new material, resulting in a stable, renewing shield.
+Due to its jittering at near *c* velocity, the unstable atoms' half-lives are extended to near infinity. As the heavy atoms get further from the Core (the shielding thicker), the relativistic effects weaken, until at some distance, the rate of decay of the outer layer will match the rate at which the shield builds up new material, resulting in a stable, renewing shield.
 %% 
 Unstable Time Cores are found layered with ultra-heavy metals nearly frozen in time, making extracting these cores impossible to extract through normal means.
 
@@ -37,16 +37,20 @@ The reason these Cores make themselves and their "shields" move slowly through t
 These cores are also not simply "moving", but more "vibrating" in the 4th dimension, making them stay near our 3d slice, not moving more than multiple plank lengths from their original position.
 This implies that there can also be Cores just outside of our 3d slice, which pushes Looper to invest in 4 dimensional "nudging" of Cores into our slice to retrieve more of them from sources. Since the outer shield is also a hypersphere, it is also possible for a Core to be out of our reach, but its shield to be visible.  %%
 # Stable Cores
+## General Description
 Cores are stabilized by trapping them in our 3d slice using a [[Core Containment#Temporal Stabilizers|Temporal Stabilizer]] to energize the Core. Doing this locks it into our 3d slice, stopping its 4d movement and forcing it to travel through time regularly, also instantly breaking down their shields, as the ultra-heavy elements start to decay at normal rates, in turn revealing the Core.
 
-# Core Potency
-Some Cores are more powerful than others, requiring more energy to constrain but less to be guided in the required direction.
+## Appearance
+Stabilized Cores have lost their protective shell and all have exactly the same shape, despite size differences, their shapes are "perfectly" matched to each other. They take the shape of a tall octahedron, having the distance to two opposing vertices doubled, making two tall pyramids attached, each of these pyramids have half of their height cut off and rotated 45 degrees.
+The importance of this form is not understood and there are no active theories on what they might mean.
+## Core Potency
+Some Cores are more powerful than others, requiring more energy to constrain but less to be guided in the required direction at higher strengths.
 
 Cores of higher Potency are always heavier than their less Potent counterparts. However the difference in mass is nearly negligible, even over immense Potency differences. For example, the most Potent Core found can work for thousands of years uninterrupted, and the least Potent Core could only sustain "warping" for at most close to a millisecond, with their mass differing by only around 0,05%.
 
-# Life Cycle
-While it is unknown how Cores are formed, understanding their "life cycle" can help us understand their birth.
-While we have no Idea how Cores came to be, there is strong evidence for them having the ability to split or "Separate" into smaller Cores with less Potency, but preserving velocity and direction. The reason that this is believes is that tighter clusters of Cores have been observed to have very similar velocity and movement, this has been observed on every Core Site found.
+# Lifecycle
+While it is unknown how Cores are formed, understanding their "life cycle" could help us understand their birth.
+While we have no Idea how Cores came to be, there is strong evidence for them having the ability to split or "Separate" into smaller Cores with less Potency, but preserving velocity and direction. The reason for this belief is that tighter clusters of Cores have been observed to have very similar velocity and movement, this has been observed on every Core Site found.
 
 There is currently no evidence of an inverse action to Separation. (Note that Separation has not yet been confirmed and only has strong evidence for it)
 
@@ -59,8 +63,9 @@ This suggests that Cores are able to Separate, but nothing else. Meaning that al
 If this is the case, the Cores that arrived on Earth are likely from the same Original, as their vibration vectors all point toward the same general direction. (Note: This might also be due to an unknown Alignment phenomenon that might have occurred a long time ago)
 Whether there would have been only one or multiple Originals is unknown.
 
-### Full Cycle
+### Cyclic
 This theory suggests that cores can both Separate and Assimilate, theorizing that Cores are the most stable at the sizes that have been found on Earth. While this no longer necessitates any Original Cores, it allows for the possibility that an Original was created and then broke down into the smaller parts we have on Earth.
 
 ### Passage
+#super-wip 
 This theory, while seemingly very outlandish, has yet to be be disproven and is taken seriously by the physicists at Looper. Building upon the idea of both the Big Bang and the Big Crunch. Theorizing that Time Cores can pass through the Big Crunch and survive the Big Bang, essentially traversing to a new universe, and split while doing so. The implications of this would be that many universes ago, the Originals were created/formed, and have persisted/endured through many entire universes, their beginning, and their ends.
